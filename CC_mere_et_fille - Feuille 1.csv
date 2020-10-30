@@ -1,22 +1,23 @@
- Unnamed: 0   Modèle Taille Fait par Gamme         Matière     Couleur Matière 2   Couleur 2  Prix  Vendu  Année Collection
-        0.0   Ubelle      M       CA    CC           Croco        Noir   Velours        Noir   500      0   2017        NaN
-        1.0   Ubelle      M       CA    CC           Croco        Gris   Velours        Gris   500      1   2017        NaN
-        2.0   Ubelle      M       CA    CC           Croco        Gold   Velours        Gold   500      1   2017        NaN
-        3.0   Ubelle     XS       CA    CC           Croco       Taupe   Velours       Taupe   450      1   2017        NaN
-        4.0   Ubelle     XS       CA    CC           Croco        Bleu   Velours        Bleu   450      1   2017        NaN
-        5.0   Ubelle     XS       CA    CC           Croco        Noir   Velours        Noir   450      1   2017        NaN
-        6.0   Ubelle    NaN       CA    CC           Croco       Taupe   Velours       Taupe   440      0   2017        NaN
-        7.0   Ubelle    NaN       CA    CC           Croco        Noir   Velours        Noir   440      1   2017        NaN
-        8.0   Ubelle    NaN       CA    CC           Croco       Beige   Velours       Beige   440      0   2017        NaN
-        9.0   Yaelle    NaN       CM    CC           Croco  Cosmo Bleu       NaN         NaN   480      1   2017        NaN
-       10.0    Chloé    NaN       CM    CC  Velours Grainé        Gris       NaN         NaN   300      0   2017        NaN
-       11.0    Hanaé    NaN       CM    CC  Velours Grainé       Taupe       NaN         NaN   420      0   2017        NaN
-       12.0    Laura    NaN       CM    CC   Velours Lisse        Noir       NaN         NaN   390      0   2017        NaN
-       13.0  Natacha    NaN       JE    CC   Velours Lisse   Blushpink   Velours       Nuage   400      1   2017        NaN
-       14.0  Natacha    NaN       JE    CC           Croco        Noir     Croco        Noir   400      1   2017        NaN
-       15.0  Natacha    NaN       JE    CC           Croco        Noir     Croco  DunkelGrau   400      0   2017        NaN
-       16.0  Natacha    NaN       JE    CC           Croco        Lion     Croco       Beige   400      0   2017        NaN
-       17.0  Natacha    NaN       JE    CC           Croco       Shark     Croco  DunkelGrau   400      2   2017        NaN
-       18.0  Natacha    NaN       JE    CC           Croco       Frost     Croco   Hellbeige   400      1   2017        NaN
-       19.0  Raphael      M       RA    CC           Croco        Noir   Velours       Blanc   500      1   2020       AMAR
-        NaN               M             CC           Croco        Noir   Velours               500      1   2020           
+  Modèle Taille Fait par Gamme         Matière     Couleur Matière 2   Couleur 2  Prix  Vendu  Année Collection
+  Ubelle      M       CA    CC           Croco        Noir   Velours        Noir   500      0   2017        NaN
+  Ubelle      M       CA    CC           Croco        Gris   Velours        Gris   500      1   2017        NaN
+  Ubelle      M       CA    CC           Croco        Gold   Velours        Gold   500      1   2017        NaN
+  Ubelle     XS       CA    CC           Croco       Taupe   Velours       Taupe   450      1   2017        NaN
+  Ubelle     XS       CA    CC           Croco        Bleu   Velours        Bleu   450      1   2017        NaN
+  Ubelle     XS       CA    CC           Croco        Noir   Velours        Noir   450      1   2017        NaN
+  Ubelle    NaN       CA    CC           Croco       Taupe   Velours       Taupe   440      0   2017        NaN
+  Ubelle    NaN       CA    CC           Croco        Noir   Velours        Noir   440      1   2017        NaN
+  Ubelle    NaN       CA    CC           Croco       Beige   Velours       Beige   440      0   2017        NaN
+  Yaelle    NaN       CM    CC           Croco  Cosmo Bleu       NaN         NaN   480      1   2017        NaN
+   Chloé    NaN       CM    CC  Velours Grainé        Gris       NaN         NaN   300      0   2017        NaN
+   Hanaé    NaN       CM    CC  Velours Grainé       Taupe       NaN         NaN   420      0   2017        NaN
+   Laura    NaN       CM    CC   Velours Lisse        Noir       NaN         NaN   390      0   2017        NaN
+ Natacha    NaN       JE    CC   Velours Lisse   Blushpink   Velours       Nuage   400      1   2017        NaN
+ Natacha    NaN       JE    CC           Croco        Noir     Croco        Noir   400      1   2017        NaN
+ Natacha    NaN       JE    CC           Croco        Noir     Croco  DunkelGrau   400      0   2017        NaN
+ Natacha    NaN       JE    CC           Croco        Lion     Croco       Beige   400      0   2017        NaN
+ Natacha    NaN       JE    CC           Croco       Shark     Croco  DunkelGrau   400      2   2017        NaN
+ Natacha    NaN       JE    CC           Croco       Frost     Croco   Hellbeige   400      1   2017        NaN
+ Raphael      M       RA    CC           Croco        Noir   Velours       Blanc   500      1   2020       AMAR
+     NaN      M      NaN    CC           Croco        Noir   Velours         NaN   500      1   2020        NaN
+     NaN      M      NaN    CC           Croco        Noir   Velours         NaN   500      1   2020        NaN
